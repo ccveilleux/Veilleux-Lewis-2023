@@ -1,0 +1,121 @@
+﻿Month,Product,Category,Proportion,Drought.Category
+January,Mature.Leaves,No.0,0.756666667,Drought
+January,Mature.Leaves,No.1,0.083333333,Drought
+January,Mature.Leaves,No.2,0.036666667,Drought
+January,Mature.Leaves,No.3,0.05,Drought
+January,Mature.Leaves,No.4,0.076666667,Drought
+January,Mature.Leaves,No.0,0.7375,No Drought
+January,Mature.Leaves,No.1,0.13125,No Drought
+January,Mature.Leaves,No.2,0.06875,No Drought
+January,Mature.Leaves,No.3,0.04375,No Drought
+January,Mature.Leaves,No.4,0.02,No Drought
+February,Mature.Leaves,No.0,0.55,Drought
+February,Mature.Leaves,No.1,0.12,Drought
+February,Mature.Leaves,No.2,0.053333333,Drought
+February,Mature.Leaves,No.3,0.09,Drought
+February,Mature.Leaves,No.4,0.193333333,Drought
+February,Mature.Leaves,No.0,0.621428571,No Drought
+February,Mature.Leaves,No.1,0.138571429,No Drought
+February,Mature.Leaves,No.2,0.094285714,No Drought
+February,Mature.Leaves,No.3,0.061428571,No Drought
+February,Mature.Leaves,No.4,0.084285714,No Drought
+March,Mature.Leaves,No.0,0.26,Drought
+March,Mature.Leaves,No.1,0.146666667,Drought
+March,Mature.Leaves,No.2,0.09,Drought
+March,Mature.Leaves,No.3,0.173333333,Drought
+March,Mature.Leaves,No.4,0.33,Drought
+March,Mature.Leaves,No.0,0.415,No Drought
+March,Mature.Leaves,No.1,0.145,No Drought
+March,Mature.Leaves,No.2,0.12625,No Drought
+March,Mature.Leaves,No.3,0.13875,No Drought
+March,Mature.Leaves,No.4,0.175,No Drought
+April,Mature.Leaves,No.0,0.07,Drought
+April,Mature.Leaves,No.1,0.115,Drought
+April,Mature.Leaves,No.2,0.16,Drought
+April,Mature.Leaves,No.3,0.225,Drought
+April,Mature.Leaves,No.4,0.425,Drought
+April,Mature.Leaves,No.0,0.29,No Drought
+April,Mature.Leaves,No.1,0.142,No Drought
+April,Mature.Leaves,No.2,0.122,No Drought
+April,Mature.Leaves,No.3,0.21,No Drought
+April,Mature.Leaves,No.4,0.226,No Drought
+May,Mature.Leaves,No.0,0.14,Drought
+May,Mature.Leaves,No.1,0.113333333,Drought
+May,Mature.Leaves,No.2,0.096666667,Drought
+May,Mature.Leaves,No.3,0.19,Drought
+May,Mature.Leaves,No.4,0.463333333,Drought
+May,Mature.Leaves,No.0,0.275714286,No Drought
+May,Mature.Leaves,No.1,0.115714286,No Drought
+May,Mature.Leaves,No.2,0.095714286,No Drought
+May,Mature.Leaves,No.3,0.202857143,No Drought
+May,Mature.Leaves,No.4,0.311428571,No Drought
+December,Mature.Leaves,No.0,0.826666667,Drought
+December,Mature.Leaves,No.1,0.06,Drought
+December,Mature.Leaves,No.2,0.02,Drought
+December,Mature.Leaves,No.3,0.043333333,Drought
+December,Mature.Leaves,No.4,0.05,Drought
+December,Mature.Leaves,No.0,0.818571429,No Drought
+December,Mature.Leaves,No.1,0.057142857,No Drought
+December,Mature.Leaves,No.2,0.035714286,No Drought
+December,Mature.Leaves,No.3,0.042857143,No Drought
+December,Mature.Leaves,No.4,0.04,No Drought
+January,Young.Leaves,No.0,0.473333333,Drought
+January,Young.Leaves,No.1,0.06,Drought
+January,Young.Leaves,No.2,0.053333333,Drought
+January,Young.Leaves,No.3,0.08,Drought
+January,Young.Leaves,No.4,0.336666667,Drought
+January,Young.Leaves,No.0,0.3725,No Drought
+January,Young.Leaves,No.1,0.04625,No Drought
+January,Young.Leaves,No.2,0.0525,No Drought
+January,Young.Leaves,No.3,0.10625,No Drought
+January,Young.Leaves,No.4,0.42375,No Drought
+February,Young.Leaves,No.0,0.263333333,Drought
+February,Young.Leaves,No.1,0.09,Drought
+February,Young.Leaves,No.2,0.056666667,Drought
+February,Young.Leaves,No.3,0.126666667,Drought
+February,Young.Leaves,No.4,0.466666667,Drought
+February,Young.Leaves,No.0,0.307142857,No Drought
+February,Young.Leaves,No.1,0.05,No Drought
+February,Young.Leaves,No.2,0.058571429,No Drought
+February,Young.Leaves,No.3,0.124285714,No Drought
+February,Young.Leaves,No.4,0.461428571,No Drought
+March,Young.Leaves,No.0,0.41,Drought
+March,Young.Leaves,No.1,0.136666667,Drought
+March,Young.Leaves,No.2,0.086666667,Drought
+March,Young.Leaves,No.3,0.166666667,Drought
+March,Young.Leaves,No.4,0.196666667,Drought
+March,Young.Leaves,No.0,0.36375,No Drought
+March,Young.Leaves,No.1,0.1075,No Drought
+March,Young.Leaves,No.2,0.0875,No Drought
+March,Young.Leaves,No.3,0.175,No Drought
+March,Young.Leaves,No.4,0.265,No Drought
+April,Young.Leaves,No.0,0.79,Drought
+April,Young.Leaves,No.1,0.08,Drought
+April,Young.Leaves,No.2,0.07,Drought
+April,Young.Leaves,No.3,0.045,Drought
+April,Young.Leaves,No.4,0.02,Drought
+April,Young.Leaves,No.0,0.612,No Drought
+April,Young.Leaves,No.1,0.102,No Drought
+April,Young.Leaves,No.2,0.094,No Drought
+April,Young.Leaves,No.3,0.116,No Drought
+April,Young.Leaves,No.4,0.078,No Drought
+May,Young.Leaves,No.0,0.913333333,Drought
+May,Young.Leaves,No.1,0.063333333,Drought
+May,Young.Leaves,No.2,0.016666667,Drought
+May,Young.Leaves,No.3,0.01,Drought
+May,Young.Leaves,No.4,0,Drought
+May,Young.Leaves,No.0,0.844285714,No Drought
+May,Young.Leaves,No.1,0.082857143,No Drought
+May,Young.Leaves,No.2,0.035714286,No Drought
+May,Young.Leaves,No.3,0.031428571,No Drought
+May,Young.Leaves,No.4,0.005714286,No Drought
+December,Young.Leaves,No.0,0.766666667,Drought
+December,Young.Leaves,No.1,0.06,Drought
+December,Young.Leaves,No.2,0.016666667,Drought
+December,Young.Leaves,No.3,0.053333333,Drought
+December,Young.Leaves,No.4,0.103333333,Drought
+December,Young.Leaves,No.0,0.658571429,No Drought
+December,Young.Leaves,No.1,0.057142857,No Drought
+December,Young.Leaves,No.2,0.041428571,No Drought
+December,Young.Leaves,No.3,0.104285714,No Drought
+December,Young.Leaves,No.4,0.14,No Drought
