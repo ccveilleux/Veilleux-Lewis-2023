@@ -14,7 +14,7 @@ Annotated code for all of the statistical analyses in the main text.
 <br>
 <strong><u>Files:</strong></u><br>
 <i>Fig1_Data_Rainfall.csv</i><br>
-#Summary data of average annual rainfall and average wet season (Dec-May) rainfall for Ankoatsifaka Research Station to generate bar plots of rainfall and Percent Normal Precipitation category lines. Year is defined following Axel and Lewis (2019) as Dec-Nov.
+#Summary data of total annual rainfall and total wet season (Dec-May) rainfall for Ankoatsifaka Research Station for Dec 2010-Dec 2022 to generate bar plots of rainfall and Percent Normal Precipitation category lines. Year is defined following Axel and Lewis (2019) as Dec-Nov.
 <br><br>
 <i>Fig2_Data_Individual_Total_Body_Fat.csv</i><br>
 #De-identified data of total body fat measures for the 16 individuals sampled before/during a drought or during/after a drought to generate line graph.
