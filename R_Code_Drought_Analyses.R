@@ -4,7 +4,7 @@
 library(lme4) #GLMMs and LMMs
 library(lmerTest) #statistical analyses of LMMs
 library(ordinal) #cumulative link mixed models with ordinal data
-library(glmmTMB) # 
+library(glmmTMB) #GLMMs with zero-inflated negative binomial distribution
 
 #### I. Phenology ######
 #package to use:
@@ -125,6 +125,11 @@ wilcox.test(dead$Dead.Trees~dead$Yr.After, alternative="less")
 #### II: BODY CONDITION ####
 ## body condition data (body mass, BMI, fat measures) by animal ID, age class, 
 #sex, sampling year, and drought year
+
+#package to use:
+library(lme4)
+library(lmerTest)
+
 data1<-read.csv("Body_Condition_Data_2024_deID.csv",header=T, stringsAsFactors = T,fileEncoding="UTF-8-BOM")
 
 ###### A. Total Body Fat Models ######
@@ -187,6 +192,9 @@ AIC(mass.m1,mass.m2,mass.m3,mass.m4,mass.m5,mass.m6,mass.m7,mass.null)
 
 
 #### II. MEASURES OF REPRODUCTIVE SUCCESS####
+#package to use:
+library(lme4)
+library(lmerTest)
 
 ##### A. Reproductive Output #####
 data3<-read.csv("Reproductive_Output_2024_deID.csv",header=T, stringsAsFactors = T,fileEncoding="UTF-8-BOM")
@@ -267,7 +275,7 @@ anova(s.m3,s.nullC)
 ####III. Behavior ####
 scans<-read.csv("Instantaneous_Scan_2024_deID.csv",header=T, stringsAsFactors = T)
 
-## GLMMs with zero-inflated negative binomial distribution
+#package to use:
 library(glmmTMB)
 
 ###### A. Total Activity Budget ######
