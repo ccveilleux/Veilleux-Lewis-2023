@@ -1,6 +1,6 @@
-# Veilleux-Lewis-2023
+# Veilleux, Tecot, and Lewis (2024)
 
-#Data and code for Veilleux and Lewis (submitted): Fat storage and drought tolerance in a seasonally-adapted primate: Implications for models of global climate change.
+#Data and code for Veilleux et al. (submitted): Fat storage and drought tolerance in a seasonally-adapted primate: Implications for models of global climate change.
 
 #For access to raw data, please contact Dr. Rebecca Lewis (rjlewis[at]austin.utexas.edu)
 <br><br>
